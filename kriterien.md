@@ -113,3 +113,25 @@ Storytelling ist wohl erst dann möglich, wenn es ein bestimmtes Thema gibt, das
 * Klare visuelle Hierarchie in den Menüpunkten, selbsterklärendes Menüwording
 * zwei Zugangsmöglichkeiten bieten: entdecken und vertiefen
 * Design vermittelt Orientierung über Gesamt-Inhalt und Gefühl für zeitlichen Aufwand
+
+---
+## Benjamin/Carmen
+
+### Kriterien für gutes Webdesign
+* Responsive: wie werden Grafiken auf kleinen Bildschirmen dargestellt?
+* Einfache klare Navigation > Benutzerfreundlich schnell zur gewünschten Information gelangen
+* Kurze Ladezeit
+* Klare Struktur/Titelhierarchie > gute Typografie
+* Bewegte Elemente bewusst einsetzten > nicht mit «spielereien» verwirren
+* Design soll der Zielgruppe entsprechend erstellt werden
+* Guter Farbkontrast > Stichwort: Lesbarkeit
+* Besucher soll auf der Website verweilen wollen > Ansprechende Gestaltung, guter Inhalt
+​
+
+### Nachtrag nach Lektüre Material Design
+
+* Was ist klickbar soll gut/sofort ersichtlich sein
+* Das Design soll aufgeräumt wirken um den User nicht «zu erschlagen» oder «in die Flucht zu treiben»
+* Navigation soll jederzeit klar sein > z.B. wie kommt man wieder zurück zum Ausgangspunkt/letzten Punkt.
+* intuitive Navigation ist wichtig > abhängig von Kultur uns Sprache
+* Buttons für klickebare Bereiche verwenden > nicht Grundschrift wie im Beispiel kioskkiosk.com
